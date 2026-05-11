@@ -35,13 +35,13 @@
 
 Here are some of my main projects:
 
-- 🧾 **SGE - Sistema de Gestão de Estoque**  
+-  **SGE - Sistema de Gestão de Estoque**  
   Web system for inventory, sales, suppliers and analytics dashboard.  
-  🔗 https://gabnasc-dev.com/pombinhagab/sge  
+   https://gabnasc-dev.com/sge  
 
-- 🌐 **Personal Portfolio**  
+-  **Personal Portfolio**  
   My developer portfolio showcasing projects, skills and experience.  
-  🔗 https://gabnasc-dev.github.io/portfolio/
+   https://gabnasc-dev.github.io/portfolio/
 
 ---
 
