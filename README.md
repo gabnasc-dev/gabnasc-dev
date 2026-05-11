@@ -31,6 +31,20 @@
 
 ---
 
+##  Portfolio
+
+Here are some of my main projects:
+
+- 🧾 **SGE - Sistema de Gestão de Estoque**  
+  Web system for inventory, sales, suppliers and analytics dashboard.  
+  🔗 https://gabnasc-dev.com/pombinhagab/sge  
+
+- 🌐 **Personal Portfolio**  
+  My developer portfolio showcasing projects, skills and experience.  
+  🔗 https://gabnasc-dev.github.io/portfolio/
+
+---
+
 ## Contact
 
 - ✉️ [gabrielnascimento12t@gmail.com](mailto:gabrielnascimento12t@gmail.com)
