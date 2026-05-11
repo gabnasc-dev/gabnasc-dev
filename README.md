@@ -37,7 +37,15 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabnasc-dev&show_icons=true&theme=dracula" alt="Gabriel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabnascdev&show_icons=true&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabnascdev&layout=compact&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gabnascdev&theme=dracula" />
 </p>
 
 ---
